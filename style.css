@@ -1,0 +1,25 @@
+ 
+  .slick-prev:before, .slick-next:before{
+      color: brown;
+  }
+  .slider {
+    width: 400px;
+    margin: 0 auto;
+  }  
+  .img-div {
+    width: 400px;
+    height: 600px;
+    /* margin: 0 15px; */
+  }  
+  .div1 {
+    background: url(gde-cat/Bijoux.png)  no-repeat center / cover;   
+  }  
+  .div2 {
+    background: url(gde-cat/chaussures.png) no-repeat center / cover;
+  }  
+  .div3 {
+    background: url(gde-cat/robes-categorie.png) no-repeat center / cover;
+  }  
+  .div4 {
+    background: url(gde-cat/sac.png) no-repeat center / cover;
+  }
